@@ -1,0 +1,5 @@
+[
+  {"geo_id": "01-001", "population": 59200, "public_transit_score": 12.5, "median_home_value": 189000},
+  {"geo_id": "01-003", "population": 233000, "public_transit_score": 18.2, "median_home_value": 254000},
+  {"geo_id": "01-005", "population": 24500, "public_transit_score": 4.1, "median_home_value": 98000}
+]
