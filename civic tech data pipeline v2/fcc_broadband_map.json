@@ -1,0 +1,5 @@
+[
+  {"geo_id": "01-001", "internet_access_rate": 81.4, "broadband_subscription_rate": 62.1, "unemployment_rate": 3.9},
+  {"geo_id": "01-003", "internet_access_rate": 88.7, "broadband_subscription_rate": 79.3, "unemployment_rate": 3.1},
+  {"geo_id": "01-005", "internet_access_rate": 59.2, "broadband_subscription_rate": 31.0, "unemployment_rate": 7.4}
+]

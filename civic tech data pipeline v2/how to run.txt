@@ -1,0 +1,16 @@
+# 1. Install deps
+pip install -r requirements.txt
+
+# 2. Confirm tests still pass
+pytest tests/ -v
+
+# 3. Run the CLI in join mode — now all 3 sources contribute
+python pipeline.py --fixture-dir tests/fixtures --join-mode join --output-dir out
+
+# 4. Launch the frontend
+streamlit run app.py
+
+Open http://localhost:8501, leave it on Offline (fixtures) + join mode, and click Run pipeline. You should see 3 rows with fields from all 3 sources, a data-quality table, and download buttons.
+
+you can test pipeline.py by executing the following code.
+python pipeline.py --fixture-dir tests/fixtures --join-mode join --output-dir out
