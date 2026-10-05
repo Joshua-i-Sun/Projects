@@ -145,3 +145,4 @@ payloads:
   synthetic placeholders (see "Unverified sources" above) shaped to
   exercise the `records` parser and the dedup/disparity logic in tests
   and the offline demo -- they are not real HUD/FCC data.
+  
