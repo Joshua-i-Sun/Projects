@@ -1,5 +1,7 @@
 # Civic Tech Data Pipeline
 
+https://civic-tech-dashboard-wnxlaiatpcpjtjzlwuzhyd.streamlit.app/
+
 A single-file ETL pipeline (`pipeline.py`) that pulls public Open Data
 REST endpoints in parallel, caches responses, engineers socio-economic
 indicator features, statistically flags disparities, deduplicates
