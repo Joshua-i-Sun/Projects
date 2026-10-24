@@ -1,5 +1,7 @@
 # Stock Return Prediction Model (v4)
 
+https://stock-prediction-app-cacfyeaxcijlibdhn3mvzm.streamlit.app/
+
 A next-day **return** prediction pipeline with walk-forward validation,
 bootstrap significance testing, and a long/flat backtest, exposed through
 a Streamlit UI.
