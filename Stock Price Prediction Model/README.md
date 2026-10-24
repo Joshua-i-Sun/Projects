@@ -1,5 +1,7 @@
 # Stock Price Prediction Model
 
+https://stock-prediction-app-cacfyeaxcijlibdhn3mvzm.streamlit.app/
+
 A next-day return prediction model built with Python, Pandas, and
 Scikit-learn. Uses engineered technical features and benchmarks two
 regression models against a naive zero-return baseline.
